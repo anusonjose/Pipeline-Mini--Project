@@ -1,0 +1,9 @@
+{
+  "catalog": "retail_dev",
+  "bronze_schema": "bronze",
+  "silver_schema": "silver",
+  "gold_schema": "gold",
+  "api_url": "https://api.example.com/orders",
+  "storage_account": "<storage-account-name>",
+  "container": "bronze"
+}
