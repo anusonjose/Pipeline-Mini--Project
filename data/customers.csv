@@ -1,0 +1,9 @@
+customer_id,customer_name,region,segment
+1001,Asha Retail,South,Consumer
+1002,Ravi Stores,South,SMB
+1003,John Traders,West,SMB
+1004,Meera Mart,North,Consumer
+1005,David Supplies,East,Enterprise
+1006,Anita Shop,South,Consumer
+1007,Kiran Wholesale,West,Enterprise
+1008,Sara Retail,North,SMB
