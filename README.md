@@ -206,4 +206,4 @@ The included `databricks.yml` is a starter Databricks Asset Bundle configuration
 
 - ## Architecture
 
-![Azure Databricks Project Architecture](docs/architecture.png)
+![Azure Databricks Project Architecture](docs/Architecture.png)
