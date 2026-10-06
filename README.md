@@ -203,3 +203,7 @@ The included `databricks.yml` is a starter Databricks Asset Bundle configuration
 - Job retries and alerts
 - CI/CD using GitHub Actions
 - Power BI semantic model
+
+- ## Architecture
+
+![Azure Databricks Project Architecture](docs/architecture.png)
