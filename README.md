@@ -204,6 +204,6 @@ The included `databricks.yml` is a starter Databricks Asset Bundle configuration
 - CI/CD using GitHub Actions
 - Power BI semantic model
 
-- ## Architecture
+## Architecture
 
 ![Azure Databricks Project Architecture](docs/Architecture.png)
